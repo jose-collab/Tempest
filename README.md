@@ -1,7 +1,7 @@
 ## Tempest
 
 
-Tempest Ã© um free code database para ajuda nas pessoas que nÃ£o sabem usar database!
+Tempest é um free code database para ajuda nas pessoas que não sabem usar database!
 
 
 ## Example
