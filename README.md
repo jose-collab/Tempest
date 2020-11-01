@@ -1,14 +1,14 @@
 ## Tempest
 
 
-Tempest é um free code database para ajuda nas pessoas que não sabem usar database!
+Tempest Ã© um free code database para ajuda nas pessoas que nÃ£o sabem usar database!
 
 
 ## Example
 
 
 ```js
-const tp = require('Tempest');
+const tp = require('tempest.db');
 
 
 tp.set('userInfo', { difficulty: 'Easy' })
