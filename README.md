@@ -1,7 +1,7 @@
 ## Tempest
 
 
-Tempest é um free code database para ajuda nas pessoas que não sabem usar database!
+Tempest Ã© um free code database para ajuda nas pessoas que nÃ£o sabem usar database!
 
 
 ## Example
@@ -30,8 +30,8 @@ tp.add('userInfo.balance', 500)
 // -> { difficulty: 'Easy', items: ['Sword', 'Watch'], balance: 1000 }
 
 
-db.get('userInfo.balance') // -> 1000
-db.get('userInfo.items') // ['Sword', 'Watch']
+tp.get('userInfo.balance') // -> 1000
+tp.get('userInfo.items') // ['Sword', 'Watch']
 ```
 
 ## Installation
